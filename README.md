@@ -5,23 +5,23 @@ by tamanegi_taro 2026/11/10
 【使い方】
 1. PC版「ウィザードリィ リルガミンサーガ」の正規CDをパソコンにセットします。
 2. LlylgamynSagaSetup_JP.exe（日本語版）または LlylgamynSagaSetup_EN.exe（英語版） を実行します。
-3. インストール先を指定し、必要な項目を選択してインストールします。
-   □ DirectX互換性修正（dgVoodoo2）
-   □ BGM再生修正
-   □ ソフトウェアエミュレーション3D表示モード固定化
-   □ ショートカット作成
+3. インストール先を指定し、必要な項目を選択してインストールします。<BR>
+   □ DirectX互換性修正（dgVoodoo2）<BR>
+   □ BGM再生修正<BR>
+   □ ソフトウェアエミュレーション3D表示モード固定化<BR>
+   □ ショートカット作成<BR>
 
-【配布時のフォルダ構成】
-LlylgamynSagaSetup_JP.exe
-LlylgamynSagaSetup_EN.exe
-Readme_JP.txt
-Readme_EN.txt
-runtime/
-    dgVoodoo2_87_6.zip   （元ZIPのまま、編集・再圧縮しない）
-    D3DRM.zip           （元ZIPのまま、編集・再圧縮しない）
+【配布時のフォルダ構成】<BR>
+LlylgamynSagaSetup_JP.exe<BR>
+LlylgamynSagaSetup_EN.exe<BR>
+Readme_JP.txt<BR>
+Readme_EN.txt<BR>
+runtime/<BR>
+    dgVoodoo2_87_6.zip   （元ZIPのまま、編集・再圧縮しない）<BR>
+    D3DRM.zip           （元ZIPのまま、編集・再圧縮しない）<BR>
 
-ゲーム本体は正規CDから取得します。既存フォルダへの上書きも可能ですが、
-セーブデータや設定は上書きされる場合があるため、事前にバックアップしてください。
+ゲーム本体は正規CDから取得します。既存フォルダへの上書きも可能ですが、<BR>
+セーブデータや設定は上書きされる場合があるため、事前にバックアップしてください。<BR>
 
 【アンインストール】
 Windowsの「インストールされているアプリ」から実行できます。
