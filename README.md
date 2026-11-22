@@ -1,0 +1,2 @@
+# Wizardry_LLYLGAMYN_SAGA_PC_Installer
+Wizardry リルガミンサーガ PC Windows 95/Windows 98版のインストーラーです。Windows 11で利用できるように互換性パッチ(dgVoodoo2および音声パッチ)を当てます。使い方は、デジキューブのCDをパソコンに挿入して、インストーラーを起動するだけです。
