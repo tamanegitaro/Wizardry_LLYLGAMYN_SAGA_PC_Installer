@@ -13,6 +13,8 @@ by tamanegi_taro 2026/11/25<BR>
    □ ショートカット作成<BR>
 <BR>
 <img width="200" height="254" alt="image" src="https://github.com/user-attachments/assets/836b6c1e-bc1a-47e8-9e2e-40604f0093f7" />
+<img width="289" height="208" alt="image" src="https://github.com/user-attachments/assets/7b742365-e130-4ab5-90e3-ec93bc196e81" />
+
 <img width="288" height="217" alt="image" src="https://github.com/user-attachments/assets/d7dffc1d-ed7b-49b7-ac59-60cd6eed1355" />
 <BR>
 【配布時のフォルダ構成】<BR>
