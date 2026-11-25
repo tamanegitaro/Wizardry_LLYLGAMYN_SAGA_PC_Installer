@@ -11,6 +11,8 @@ by tamanegi_taro 2026/11/25<BR>
    □ BGM再生修正<BR>
    □ ソフトウェアエミュレーション3D表示モード固定化<BR>
    □ ショートカット作成<BR>
+4. ゲームを起動してサウンドオプションでBGMと効果音を有効にします。<BR>
+5. ダンジョンオプションでポリゴンのグラフィックを選択できます。<BR>
 <BR>
 <img width="200" height="254" alt="image" src="https://github.com/user-attachments/assets/836b6c1e-bc1a-47e8-9e2e-40604f0093f7" />
 <img width="289" height="208" alt="image" src="https://github.com/user-attachments/assets/7b742365-e130-4ab5-90e3-ec93bc196e81" />
