@@ -5,7 +5,7 @@ by tamanegi_taro 2026/11/25<BR>
 
 <BR>
 【使い方】<BR>
-1. PC版「ウィザードリィ リルガミンサーガ」の正規CDをパソコンにセットします。<BR>
+1. PC版「ウィザードリィ リルガミンサーガ」の正規CD（デジキューブ版）をパソコンにセットします。<BR>
 2. LlylgamynSagaSetup_JP.exe（日本語版）または LlylgamynSagaSetup_EN.exe（英語版） を実行します。<BR>
 3. インストール先を指定し、必要な項目を選択してインストールします。<BR>
    □ DirectX互換性修正（dgVoodoo2）<BR>
