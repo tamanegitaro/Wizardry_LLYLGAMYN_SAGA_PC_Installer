@@ -1,8 +1,7 @@
 ウィザードリィ リルガミンサーガ インストーラー v2.0.1<BR>
 by tamanegi_taro 2026/11/25<BR>
 =================================================================<BR>
-**English descrption can be found here → [Readme_EN.txt](Readme_EN.txt)**
-
+**English descrption can be found here → [Readme_EN.txt](Readme_EN.txt)**<BR>
 <BR>
 【使い方】<BR>
 1. PC版「ウィザードリィ リルガミンサーガ」の正規CD（デジキューブ版）をパソコンにセットします。<BR>
@@ -12,6 +11,9 @@ by tamanegi_taro 2026/11/25<BR>
    □ BGM再生修正<BR>
    □ ソフトウェアエミュレーション3D表示モード固定化<BR>
    □ ショートカット作成<BR>
+<BR>
+<img width="200" height="254" alt="image" src="https://github.com/user-attachments/assets/836b6c1e-bc1a-47e8-9e2e-40604f0093f7" />
+<img width="288" height="217" alt="image" src="https://github.com/user-attachments/assets/d7dffc1d-ed7b-49b7-ac59-60cd6eed1355" />
 <BR>
 【配布時のフォルダ構成】<BR>
 LlylgamynSagaSetup_JP.exe<BR>
