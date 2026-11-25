@@ -1,5 +1,5 @@
-Wizardry: Llylgamyn Saga Installer v2.0.0
-by tamanegi_taro 2026/11/10
+Wizardry: Llylgamyn Saga Installer v2.0.1
+by tamanegi_taro 2026/11/25
 =================================================================
 
 [How to Use]
@@ -18,7 +18,6 @@ Readme_JP.txt
 Readme_EN.txt
 runtime/
     dgVoodoo2_87_6.zip   (original ZIP; do not modify or recompress)
-    D3DRM.zip            (original ZIP; do not modify or recompress)
 
 Game data is copied from the original CD. You may overwrite files in an existing
 installation folder; files with matching names, including saves or settings,
