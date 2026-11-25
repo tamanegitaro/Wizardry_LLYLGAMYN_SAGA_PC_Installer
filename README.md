@@ -1,7 +1,7 @@
 ウィザードリィ リルガミンサーガ インストーラー v2.0.1<BR>
 by tamanegi_taro 2026/11/25<BR>
 =================================================================<BR>
-**English descrption can be found here → [Readme_EN.txt](Readme_EN.txt)**<BR>
+**English description can be found here → [Readme_EN.txt](Readme_EN.txt)**<BR>
 <BR>
 【使い方】<BR>
 1. PC版「ウィザードリィ リルガミンサーガ」の正規CD（デジキューブ版）をパソコンにセットします。<BR>
