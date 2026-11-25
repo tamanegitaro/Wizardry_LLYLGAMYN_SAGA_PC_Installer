@@ -3,7 +3,7 @@ by tamanegi_taro 2026/11/25
 =================================================================
 
 [How to Use]
-1. Insert an original PC CD of Wizardry: Llylgamyn Saga into your computer.
+1. Insert an original PC CD of Wizardry: Llylgamyn Saga(DigiCube version) into your computer.
 2. Run LlylgamynSagaSetup_EN.exe (English) or LlylgamynSagaSetup_JP.exe (Japanese).
 3. Choose an installation folder and select any desired options.
    [ ] DirectX compatibility fix (dgVoodoo2)
