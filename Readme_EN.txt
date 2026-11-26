@@ -10,8 +10,9 @@ by tamanegi_taro 2026/11/25
    [ ] BGM playback fix
    [ ] Force software-emulated 3D display mode
    [ ] Create shortcuts
-4. Launch the game and enable background music (BGM) and sound effects in the sound options.
-5. You can select polygonal graphics in the dungeon options.
+4. Select "English(英語)" for the five items under message options.
+5. Launch the game and enable background music (BGM) and sound effects in the sound options.
+6. You can select polygonal graphics in the dungeon options.
 
 [Distribution Folder Layout]
 LlylgamynSagaSetup_JP.exe
