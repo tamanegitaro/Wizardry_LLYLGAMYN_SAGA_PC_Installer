@@ -10,6 +10,8 @@ by tamanegi_taro 2026/11/25
    [ ] BGM playback fix
    [ ] Force software-emulated 3D display mode
    [ ] Create shortcuts
+4. Launch the game and enable background music (BGM) and sound effects in the sound options.
+5. You can select polygonal graphics in the dungeon options.
 
 [Distribution Folder Layout]
 LlylgamynSagaSetup_JP.exe
@@ -34,6 +36,7 @@ holders, publisher, Microsoft, or the developer of dgVoodoo2.
 Use it at your own risk. To the extent permitted by law, the author assumes
 no responsibility for malfunctions, lost data, or any other damages resulting
 from use of this tool.
+Additionally, the *Wizardry* images and icons used in this installer are loaded and displayed from the CD.
 
 [Installer Author and Credit Request]
 This installer was created by tamanegi_taro.
